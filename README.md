@@ -1,2 +1,10 @@
-# CopilotStudioAppsandTextAutomation
+# Copilot Studio 便利ツール郡
 Copilot Studio 利用するにあたってのPDF・画像のテキストファイル化ツールと問い合わせテーブル作成用ファイル
+
+
+# ツール
+## PDF・画像のテキストファイル化
+
+
+## 解決しなかった場合の問い合わせ管理アプリ作成
+Dataverse 問い合わせテーブルを作成する元となるExcel ファイルを入手することができます。
