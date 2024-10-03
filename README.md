@@ -1,0 +1,2 @@
+# CopilotStudioAppsandTextAutomation
+Copilot Studio 利用するにあたってのPDF・画像のテキストファイル化ツールと問い合わせテーブル作成用ファイル
