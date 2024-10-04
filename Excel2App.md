@@ -7,4 +7,4 @@ Copilot エージェントが回答を行えなかった場合はユーザーの
 
 問い合わせを記録するDataverse テーブルを作成する元となる[Excel ファイルを提供](https://github.com/geekfujiwara/CopilotStudioAppsandTextAutomation/releases/tag/CopilotInquiry)しています。
 
-ルートページへ
+[ルートページへ](https://github.com/geekfujiwara/CopilotStudioToolKit)
