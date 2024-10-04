@@ -54,5 +54,6 @@ SharePoint サイトのURL 取得します。開いている状態でここま�
 
 ![image](https://github.com/user-attachments/assets/9073318b-809e-4226-943f-3b64483f6a77)
 
+以上
 
-ルートページへ
+[ルートページへ](https://github.com/geekfujiwara/CopilotStudioToolKit)
