@@ -26,7 +26,7 @@ SharePoint サイトのURL 取得します。開いている状態でここま�
 ![image](https://github.com/user-attachments/assets/3d6245ee-a936-4014-b4ad-2560d4e450ba)
 
 
-このようにSharePoint ドキュメントライブラリ名とフォルダ名を確認しておきます。この例ですと、SharePoint ドキュメントライブラリ名 `TextConverter` とフォルダ名 `Input` `Output` が必要となります。
+このようにSharePoint ドキュメントライブラリ名とフォルダ名を確認しておきます。この例ですと、SharePoint ドキュメントライブラリ名 `TextConverter` とフォルダ名 `Input`, `Output` が必要となります。
 
 これらを環境変数 `SharePoint Library Name`, `Input Folder Path` , `Output Folder Path` に設定します。
 
