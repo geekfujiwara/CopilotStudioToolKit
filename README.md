@@ -19,6 +19,8 @@ SharePoint サイトのURL 取得します。開いている状態でここま�
 
 こちらを環境変数の `SharePoint Site URL` に設定します。
 
+"https://xxxxx.sharepoint.com/sites/Microsoftdemo" のように入力します。
+
 ![image](https://github.com/user-attachments/assets/3d6245ee-a936-4014-b4ad-2560d4e450ba)
 
 
