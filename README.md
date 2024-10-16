@@ -12,7 +12,7 @@ Copilot Studio 利用するにあたって便利ツールを共有していま�
   - [Copilot 改善アプリ](https://github.com/geekfujiwara/CopilotImprove)
 
 * ナレッジソースの最適化
-  - [画像またはPDFファイルからテキストファイルの自動変換](https://github.com/geekfujiwara/CopilotStudioToolKit/blob/main/TextFileConverter.md)
+  - [画像またはPDFファイルからテキストファイルへの自動変換](https://github.com/geekfujiwara/CopilotStudioToolKit/blob/main/TextFileConverter.md)
 
 * テスト自動化
   - [自動テストツール](https://github.com/geekfujiwara/CopilotStudioToolKit/blob/main/CopilotStudioTestAutomation.md)
