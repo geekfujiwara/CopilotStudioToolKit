@@ -3,7 +3,7 @@ Copilot Studio で利用しているデータソースのファイルやテキ�
 
 ![image](https://github.com/user-attachments/assets/44d9a73c-9638-4d43-b6ec-e3f8f1563058)
 
-> ![Note]
+> [!Note]
 > こちらの[Xのポスト](https://x.com/geekfujiwara/status/1846485598070280596)で紹介しております。感想はぜひこちらへ！
 
 ## 利用方法
